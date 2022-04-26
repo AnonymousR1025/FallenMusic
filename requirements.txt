@@ -1,5 +1,5 @@
 git+https://github.com/AnonymousR1025/yt-dl@master
-pyrogram==1.4.16
+pyrogram==2.0.13
 TgCrypto
 py-tgcalls==0.8.1
 python-dotenv
