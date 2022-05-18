@@ -1,7 +1,7 @@
 git+https://github.com/AnonymousR1025/yt-dl@master
 pyrogram==1.4.16
 TgCrypto
-py-tgcalls==0.8.6
+py-tgcalls==0.9.0
 python-dotenv
 youtube_search_python
 requests
